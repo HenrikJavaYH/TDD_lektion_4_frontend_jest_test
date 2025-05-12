@@ -56,10 +56,6 @@ describe("Custom button component states", () => {
 
     })
 
-    test("Test that will fail 2", () => {
-        expect(2 + 2).toBe(999)
-    })
-
 
 
 })
