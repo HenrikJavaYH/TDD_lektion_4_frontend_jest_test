@@ -56,5 +56,9 @@ describe("Custom button component states", () => {
 
     })
 
+    test("This test should fail for my github actions training", () => {
+        expect(2+2).toBe(999)
+    })
+
 })
 
